@@ -18,8 +18,10 @@ Change all Folder permission inside uploads folder either add them to group call
 
 Then loging by typing username and password:
 
-Administrator	Special User	Default User
-Username : admin	Username : special	Username : user
-Password : admin	Password : special	Password : user
+Administrator	   Special User	   Default User
+
+Username : admin	  Username : special	  Username : user
+
+Password : admin	   Password : special	   Password : user
 
 Good luck!
